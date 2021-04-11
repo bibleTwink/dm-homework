@@ -1,0 +1,47 @@
+0 Albania Албания Албанией
+1 Andorra Андорра Андоррой
+2 Austria Австрия Австрией
+3 Belarus Беларусь Беларуссией Беларусью
+4 Belgium Бельгия Бельгией
+5 BosniaAndHerzegovina БоснияИГерцеговина БосниейИГерцеговиной
+6 Bulgaria Болгария Болгарией
+7 Croatia Хорватия Хорватией
+8 CzechRepublic Чехия Чехией
+9 Denmark Дания Данией
+10 Estonia Эстония Эстонией
+11 Finland Финляндия Финляндией
+12 France Франция Францией
+13 Germany Германия Германией
+14 Greece Греция Грецией
+15 Hungray Венгрия Венгрией
+16 Italy Италия Италией
+17 Kosovo Косово
+18 Latvia Латвия Латвией
+19 Liechtenstein Лихтенштейн Лихтенштейном
+20 Lithuania Литва Литвой
+21 Luxembiurg Люксембург Люксембургом
+22 Macedonia Македония Македонией
+23 Moldova Молдова Молдовой
+24 Monaco Монако
+25 Montenegro Черногория Черногорией
+26 Netherlands Нидерланды Нидерландами
+27 Nordway Норвегия Норвегией
+28 Poland Польша Польшей
+29 Portugal Португалия Португалией
+30 Romania Румыния Румынией
+31 Russia Россия Россией
+32 SanMarino СанМарино
+33 Serbia Сербия Сербией
+34 Slovakia Словакия Словакией
+35 Slovenia Словения Словенией
+36 Spain Испания Испанией
+37 Sweden Швеция Швецией
+38 Switzerland Швейцарией Швейцария
+39 Turkey Турция Турцией
+40 Ukraine Украина Украиной
+41 Vatican Ватикан Ватиканом
+42 Cyprus
+43 Iceland
+44 UK
+45 Ireland
+46 Malta

@@ -1,0 +1,233 @@
+/* Created by igraph 0.9.1 */
+graph {
+  0 [
+    label=Albania
+  ];
+  1 [
+    label=Andorra
+  ];
+  2 [
+    label=Austria
+  ];
+  3 [
+    label=Belarus
+  ];
+  4 [
+    label=Belgium
+  ];
+  5 [
+    label=BosniaAndHerzegovina
+  ];
+  6 [
+    label=Bulgaria
+  ];
+  7 [
+    label=Croatia
+  ];
+  8 [
+    label=CzechRepublic
+  ];
+  9 [
+    label=Denmark
+  ];
+  10 [
+    label=Estonia
+  ];
+  11 [
+    label=Finland
+  ];
+  12 [
+    label=France
+  ];
+  13 [
+    label=Germany
+  ];
+  14 [
+    label=Greece
+  ];
+  15 [
+    label=Hungray
+  ];
+  16 [
+    label=Italy
+  ];
+  17 [
+    label=Kosovo
+  ];
+  18 [
+    label=Latvia
+  ];
+  19 [
+    label=Liechtenstein
+  ];
+  20 [
+    label=Lithuania
+  ];
+  21 [
+    label=Luxembiurg
+  ];
+  22 [
+    label=Macedonia
+  ];
+  23 [
+    label=Moldova
+  ];
+  24 [
+    label=Monaco
+  ];
+  25 [
+    label=Montenegro
+  ];
+  26 [
+    label=Netherlands
+  ];
+  27 [
+    label=Nordway
+  ];
+  28 [
+    label=Poland
+  ];
+  29 [
+    label=Portugal
+  ];
+  30 [
+    label=Romania
+  ];
+  31 [
+    label=Russia
+  ];
+  32 [
+    label=SanMarino
+  ];
+  33 [
+    label=Serbia
+  ];
+  34 [
+    label=Slovakia
+  ];
+  35 [
+    label=Slovenia
+  ];
+  36 [
+    label=Spain
+  ];
+  37 [
+    label=Sweden
+  ];
+  38 [
+    label=Switzerland
+  ];
+  39 [
+    label=Turkey
+  ];
+  40 [
+    label=Ukraine
+  ];
+  41 [
+    label=Vatican
+  ];
+  42 [
+    label=Cyprus
+  ];
+  43 [
+    label=Iceland
+  ];
+  44 [
+    label=UK
+  ];
+  45 [
+    label=Ireland
+  ];
+  46 [
+    label=Malta
+  ];
+
+  8 -- 2;
+  13 -- 2;
+  15 -- 2;
+  19 -- 2;
+  34 -- 2;
+  35 -- 2;
+  38 -- 2;
+  14 -- 0;
+  22 -- 0;
+  12 -- 1;
+  36 -- 1;
+  18 -- 3;
+  20 -- 3;
+  28 -- 3;
+  31 -- 3;
+  40 -- 3;
+  12 -- 4;
+  13 -- 4;
+  21 -- 4;
+  26 -- 4;
+  14 -- 6;
+  22 -- 6;
+  30 -- 6;
+  39 -- 6;
+  22 -- 14;
+  15 -- 7;
+  30 -- 15;
+  34 -- 15;
+  35 -- 15;
+  40 -- 15;
+  13 -- 8;
+  13 -- 9;
+  13 -- 12;
+  21 -- 13;
+  26 -- 13;
+  28 -- 13;
+  38 -- 13;
+  39 -- 14;
+  36 -- 12;
+  36 -- 29;
+  18 -- 10;
+  20 -- 18;
+  31 -- 18;
+  28 -- 20;
+  31 -- 20;
+  38 -- 19;
+  21 -- 12;
+  30 -- 23;
+  40 -- 23;
+  37 -- 27;
+  31 -- 27;
+  28 -- 8;
+  31 -- 28;
+  34 -- 28;
+  40 -- 28;
+  40 -- 30;
+  40 -- 34;
+  34 -- 8;
+  35 -- 7;
+  40 -- 31;
+  38 -- 12;
+  7 -- 5;
+  31 -- 10;
+  25 -- 17;
+  17 -- 0;
+  22 -- 17;
+  33 -- 17;
+  25 -- 7;
+  25 -- 5;
+  33 -- 25;
+  25 -- 0;
+  33 -- 15;
+  33 -- 30;
+  33 -- 6;
+  33 -- 22;
+  33 -- 5;
+  33 -- 7;
+  41 -- 16;
+  16 -- 12;
+  32 -- 16;
+  35 -- 16;
+  38 -- 16;
+  24 -- 12;
+  27 -- 11;
+  37 -- 11;
+  31 -- 11;
+  16 -- 2;
+  45 -- 44;
+}

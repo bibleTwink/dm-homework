@@ -1,0 +1,478 @@
+/* Created by igraph 0.9.1 */
+graph {
+  0 [
+    label=Albania
+  ];
+  1 [
+    label=Andorra
+  ];
+  2 [
+    label=Austria
+  ];
+  3 [
+    label=Belarus
+  ];
+  4 [
+    label=Belgium
+  ];
+  5 [
+    label=BosniaAndHerzegovina
+  ];
+  6 [
+    label=Bulgaria
+  ];
+  7 [
+    label=Croatia
+  ];
+  8 [
+    label=CzechRepublic
+  ];
+  9 [
+    label=Denmark
+  ];
+  10 [
+    label=Estonia
+  ];
+  11 [
+    label=Finland
+  ];
+  12 [
+    label=France
+  ];
+  13 [
+    label=Germany
+  ];
+  14 [
+    label=Greece
+  ];
+  15 [
+    label=Hungray
+  ];
+  16 [
+    label=Italy
+  ];
+  17 [
+    label=Kosovo
+  ];
+  18 [
+    label=Latvia
+  ];
+  19 [
+    label=Liechtenstein
+  ];
+  20 [
+    label=Lithuania
+  ];
+  21 [
+    label=Luxembiurg
+  ];
+  22 [
+    label=Macedonia
+  ];
+  23 [
+    label=Moldova
+  ];
+  24 [
+    label=Monaco
+  ];
+  25 [
+    label=Montenegro
+  ];
+  26 [
+    label=Netherlands
+  ];
+  27 [
+    label=Nordway
+  ];
+  28 [
+    label=Poland
+  ];
+  29 [
+    label=Portugal
+  ];
+  30 [
+    label=Romania
+  ];
+  31 [
+    label=Russia
+  ];
+  32 [
+    label=SanMarino
+  ];
+  33 [
+    label=Serbia
+  ];
+  34 [
+    label=Slovakia
+  ];
+  35 [
+    label=Slovenia
+  ];
+  36 [
+    label=Spain
+  ];
+  37 [
+    label=Sweden
+  ];
+  38 [
+    label=Switzerland
+  ];
+  39 [
+    label=Turkey
+  ];
+  40 [
+    label=Ukraine
+  ];
+  41 [
+    label=Vatican
+  ];
+
+  8 -- 2 [
+    weight=289.097
+    label=289.097
+  ];
+  13 -- 2 [
+    weight=634.325
+    label=634.325
+  ];
+  15 -- 2 [
+    weight=254.598
+    label=254.598
+  ];
+  19 -- 2 [
+    weight=679.511
+    label=679.511
+  ];
+  34 -- 2 [
+    weight=80.815
+    label=80.815
+  ];
+  35 -- 2 [
+    weight=388.76
+    label=388.76
+  ];
+  38 -- 2 [
+    weight=973.645
+    label=973.645
+  ];
+  14 -- 0 [
+    weight=732.102
+    label=732.102
+  ];
+  22 -- 0 [
+    weight=331.637
+    label=331.637
+  ];
+  12 -- 1 [
+    weight=1291.618
+    label=1291.618
+  ];
+  36 -- 1 [
+    weight=15.434
+    label=15.434
+  ];
+  18 -- 3 [
+    weight=2787.751
+    label=2787.751
+  ];
+  20 -- 3 [
+    weight=182.844
+    label=182.844
+  ];
+  28 -- 3 [
+    weight=549.852
+    label=549.852
+  ];
+  31 -- 3 [
+    weight=720.365
+    label=720.365
+  ];
+  40 -- 3 [
+    weight=574.48
+    label=574.48
+  ];
+  12 -- 4 [
+    weight=625.091
+    label=625.091
+  ];
+  13 -- 4 [
+    weight=898.226
+    label=898.226
+  ];
+  21 -- 4 [
+    weight=437.491
+    label=437.491
+  ];
+  26 -- 4 [
+    weight=842.04
+    label=842.04
+  ];
+  14 -- 6 [
+    weight=803.629
+    label=803.629
+  ];
+  22 -- 6 [
+    weight=247.538
+    label=247.538
+  ];
+  30 -- 6 [
+    weight=386.744
+    label=386.744
+  ];
+  39 -- 6 [
+    weight=1003.306
+    label=1003.306
+  ];
+  22 -- 14 [
+    weight=704.72
+    label=704.72
+  ];
+  15 -- 7 [
+    weight=353.407
+    label=353.407
+  ];
+  30 -- 15 [
+    weight=829.736
+    label=829.736
+  ];
+  34 -- 15 [
+    weight=221.53
+    label=221.53
+  ];
+  35 -- 15 [
+    weight=459.883
+    label=459.883
+  ];
+  40 -- 15 [
+    weight=1144.672
+    label=1144.672
+  ];
+  13 -- 8 [
+    weight=345.291
+    label=345.291
+  ];
+  13 -- 9 [
+    weight=444.052
+    label=444.052
+  ];
+  13 -- 12 [
+    weight=1069.216
+    label=1069.216
+  ];
+  21 -- 13 [
+    weight=786.472
+    label=786.472
+  ];
+  26 -- 13 [
+    weight=682.093
+    label=682.093
+  ];
+  28 -- 13 [
+    weight=570.094
+    label=570.094
+  ];
+  38 -- 13 [
+    weight=1073.473
+    label=1073.473
+  ];
+  39 -- 14 [
+    weight=1552.234
+    label=1552.234
+  ];
+  36 -- 12 [
+    weight=1280.277
+    label=1280.277
+  ];
+  36 -- 29 [
+    weight=679.952
+    label=679.952
+  ];
+  18 -- 10 [
+    weight=3130.314
+    label=3130.314
+  ];
+  20 -- 18 [
+    weight=2719.948
+    label=2719.948
+  ];
+  31 -- 18 [
+    weight=3671.148
+    label=3671.148
+  ];
+  28 -- 20 [
+    weight=447.35
+    label=447.35
+  ];
+  31 -- 20 [
+    weight=905.49
+    label=905.49
+  ];
+  38 -- 19 [
+    weight=316.096
+    label=316.096
+  ];
+  21 -- 12 [
+    weight=383.665
+    label=383.665
+  ];
+  30 -- 23 [
+    weight=577.867
+    label=577.867
+  ];
+  40 -- 23 [
+    weight=453.217
+    label=453.217
+  ];
+  37 -- 27 [
+    weight=530.685
+    label=530.685
+  ];
+  31 -- 27 [
+    weight=2119.198
+    label=2119.198
+  ];
+  28 -- 8 [
+    weight=692.333
+    label=692.333
+  ];
+  31 -- 28 [
+    weight=1291.812
+    label=1291.812
+  ];
+  34 -- 28 [
+    weight=661.479
+    label=661.479
+  ];
+  40 -- 28 [
+    weight=788.172
+    label=788.172
+  ];
+  40 -- 30 [
+    weight=916.516
+    label=916.516
+  ];
+  40 -- 34 [
+    weight=1344.282
+    label=1344.282
+  ];
+  34 -- 8 [
+    weight=334.073
+    label=334.073
+  ];
+  35 -- 7 [
+    weight=166
+    label=166
+  ];
+  40 -- 31 [
+    weight=869.503
+    label=869.503
+  ];
+  38 -- 12 [
+    weight=559.571
+    label=559.571
+  ];
+  7 -- 5 [
+    weight=401.017
+    label=401.017
+  ];
+  31 -- 10 [
+    weight=1055.229
+    label=1055.229
+  ];
+  25 -- 17 [
+    weight=316.459
+    label=316.459
+  ];
+  17 -- 0 [
+    weight=250.462
+    label=250.462
+  ];
+  22 -- 17 [
+    weight=91.35
+    label=91.35
+  ];
+  33 -- 17 [
+    weight=361.941
+    label=361.941
+  ];
+  25 -- 7 [
+    weight=735.593
+    label=735.593
+  ];
+  25 -- 5 [
+    weight=224.905
+    label=224.905
+  ];
+  33 -- 25 [
+    weight=470.575
+    label=470.575
+  ];
+  25 -- 0 [
+    weight=158.703
+    label=158.703
+  ];
+  33 -- 15 [
+    weight=370.217
+    label=370.217
+  ];
+  33 -- 30 [
+    weight=629.057
+    label=629.057
+  ];
+  33 -- 6 [
+    weight=473.939
+    label=473.939
+  ];
+  33 -- 22 [
+    weight=432.567
+    label=432.567
+  ];
+  33 -- 5 [
+    weight=384.996
+    label=384.996
+  ];
+  33 -- 7 [
+    weight=393.763
+    label=393.763
+  ];
+  41 -- 16 [
+    weight=6.3
+    label=6.3
+  ];
+  16 -- 12 [
+    weight=1420
+    label=1420
+  ];
+  32 -- 16 [
+    weight=330
+    label=330
+  ];
+  35 -- 16 [
+    weight=752
+    label=752
+  ];
+  38 -- 16 [
+    weight=925
+    label=925
+  ];
+  24 -- 12 [
+    weight=954
+    label=954
+  ];
+  27 -- 11 [
+    weight=978
+    label=978
+  ];
+  37 -- 11 [
+    weight=480
+    label=480
+  ];
+  31 -- 11 [
+    weight=1121
+    label=1121
+  ];
+  16 -- 2 [
+    weight=1123
+    label=1123
+  ];
+}
