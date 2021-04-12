@@ -1,8 +1,6 @@
 from igraph import *
 import codecs
 import networkx as nx
-import dwave_networkx as dnx
-import dimod
 
 # http://graphonline.ru/?graph=PwDAJuJcAiDEkSaU
 
